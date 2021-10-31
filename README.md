@@ -57,6 +57,6 @@ We aim to solve this problem of misinformation by means of crowd verification an
 - Portis (Seamless authentication).
 - Truffle (for developement)
 
-Demo video : https://youtu.be/AA3EXk56xZ4
+Demo video : https://youtu.be/I-O0eDihlXA
 
 
